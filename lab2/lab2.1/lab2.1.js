@@ -1,0 +1,12 @@
+var country = "USA";
+var continent = "North America";
+var population = 320000000;
+var isIsland=true;
+var language="";
+console.log("The population of " + country +" in " + continent + " is " + population + ".");
+console.log("Is " + country + " an island? " + isIsland);
+console.log("The languages spoken in " + country + " are " + language + ".");
+console.log(typeof isIsland);
+console.log(typeof population);
+console.log(typeof country);
+console.log(typeof language);
